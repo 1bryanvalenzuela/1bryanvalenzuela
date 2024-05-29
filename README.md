@@ -1,16 +1,15 @@
-## Hi there 👋
+### Acerca de mi:    
 
-<!--
-**1bryanvalenzuela/1bryanvalenzuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Negocios Internacionales y Analista de datos Junior. Soy un apasionado por las tecnologias y la programación, siempre me encuentro experimentando en diferentes herramientas e intento expandir mi conocimiento para aplicarlos en problemas reales.  
 
-Here are some ideas to get you started:
+Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en Github, que puedan ser utiles para otros usuarios y para mi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Herramientas:
+- Principales
+- Otras
+
+Proyectos:
+
+Redes sociales:
+
+Trabajando en este apartado
