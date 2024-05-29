@@ -18,3 +18,5 @@ Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en
 <div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=1bryanvalenzuela&style=flat&color=lightgrey" alt=""/>
 </div>
+
+Aqui abajo puedes ver los proyectos en los que he trabajado
