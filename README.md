@@ -19,8 +19,11 @@ Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en
   <img src="https://komarev.com/ghpvc/?username=1bryanvalenzuela&style=flat&color=lightgrey" alt=""/>
 </div>
 
-Proyectos:
+Proyectos en desarrollo:
+- [Trabajando en mi portafolio web](https://github.com/1bryanvalenzuela/1bryanvalenzuela.github.io)
 - [Analizador de jugadores para League of Legends](https://github.com/1bryanvalenzuela/lol-simple-analysis)
+
+Proyectos finalizados:
 - [Análisis y predicción de datos de venta de vehiculos](https://github.com/1bryanvalenzuela/Listado-Autos-Usados-ML)
 - [Predicción de prueba al Bitcoin](https://github.com/1bryanvalenzuela/Testing-Forecast-BTC)
 - [Análisis de una tienda de Pizzas](https://github.com/1bryanvalenzuela/Analisis-Pizza-Sales)
