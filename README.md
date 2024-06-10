@@ -5,6 +5,8 @@ Ingeniero en Negocios Internacionales y Analista de Datos Junior. Soy un apasion
 
 Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en Github, que puedan ser útiles para otros usuarios y para mi.
 
+[Portafolio](https://1bryanvalenzuela.github.io)
+
 ### Principales herramientas
 | Jupyter Notebook | Python | SQL | PowerBI | Excel |
 | ---------------- | ------ | --- | ------- | ----- |
@@ -20,7 +22,6 @@ Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en
 </div>
 
 Proyectos en desarrollo:
-- [Trabajando en mi portafolio web](https://github.com/1bryanvalenzuela/1bryanvalenzuela.github.io)
 - [Analizador de jugadores para League of Legends](https://github.com/1bryanvalenzuela/lol-simple-analysis)
 
 Proyectos finalizados:
