@@ -22,6 +22,7 @@ Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en
 </div>
 
 Proyectos finalizados:
+- [Dashboard para comparar precios de supermercados chilenos](https://github.com/1bryanvalenzuela/Comparador-Supermercados-Chile)
 - [Dashboard de Franquicias en Box Office Mojo](https://github.com/1bryanvalenzuela/Dashboard-Franquicias-MojoBox)
 - [Herramienta para analizar a un jugador en League of Legends](https://github.com/1bryanvalenzuela/lol-simple-analysis)
 - [Análisis y predicción de datos de venta de vehiculos](https://github.com/1bryanvalenzuela/Listado-Autos-Usados-ML)
